@@ -1,0 +1,9 @@
+{
+  "name": "elnemer70/mirath-php-munasakhat-multi-death",
+  "description": "Munasakhat Sequential Multi-Generation Estate Unification Matrix (حلال مسائل المناسخات وتعدد الوفيات المتعاقبة)",
+  "type": "project",
+  "license": "MIT",
+  "require": {
+    "php": ">=8.1"
+  }
+}
